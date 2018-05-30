@@ -1,0 +1,63 @@
+* {
+    background-color: lavenderblush;
+}
+
+
+.profile {
+    width: 50%;
+    margin: 0 auto;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: white;
+}
+
+.editProfileBtn {
+    background-color: darkgrey;
+    border-radius: 5px;
+    padding: 2px;
+    text-decoration: none;
+    padding-left: 40%;
+    padding-right: 40%;
+    margin: 10px;
+}
+
+h2 {
+    font-family: 'Abril Fatface', cursive;
+    background-color: white;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    background-color: white;
+}
+
+a {
+    font-family: 'Open Sans', sans-serif;
+    background-color: white;
+}
+
+form {
+    width: 60%;
+    margin: 0 auto;
+   background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+input {
+    width: 100%;
+    background-color: white;
+    border-radius: 5px;
+    margin: 5px;
+
+}
+
+.profileBtn {
+    background-color: darkgrey;
+    border-radius: 5px;
+    padding: 2px;
+    text-decoration: none;
+    margin: 10px;
+    padding-left: 40%;
+    padding-right: 40%;
+}
